@@ -1,0 +1,179 @@
+{
+    "Fornecedores": [
+        {
+            "id": 1,
+            "nome": "Atlas Grãos LTDA",
+            "cidade": "Londrina",
+            "categoria": "Alimentos",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 2,
+            "nome": "Serra Sul Transportes",
+            "cidade": "Caxias do Sul",
+            "categoria": "Transporte",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 3,
+            "nome": "Recife Pack",
+            "cidade": "Recife",
+            "categoria": "Embalagens",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 4,
+            "nome": "Campinas Clean",
+            "cidade": "Campinas",
+            "categoria": "Limpeza",
+            "situacao": "Suspenso"
+        },
+        {
+            "id": 5,
+            "nome": "Norte Data",
+            "cidade": "Manaus",
+            "categoria": "Tecnologia",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 6,
+            "nome": "Belém Energia",
+            "cidade": "Belém",
+            "categoria": "Energia",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 7,
+            "nome": "Santos Porto Frio",
+            "cidade": "Santos",
+            "categoria": "Alimentos",
+            "situacao": "Inativo"
+        },
+        {
+            "id": 8,
+            "nome": "Joinville Metal Leve",
+            "cidade": "Joinville",
+            "categoria": "Embalagens",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 9,
+            "nome": "Uberlândia Ração",
+            "cidade": "Uberlândia",
+            "categoria": "Alimentos",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 10,
+            "nome": "Ribeirão Software",
+            "cidade": "Ribeirão Preto",
+            "categoria": "Tecnologia",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 11,
+            "nome": "Vale Verde Limpeza",
+            "cidade": "Londrina",
+            "categoria": "Limpeza",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 12,
+            "nome": "Horizonte Cargas",
+            "cidade": "Campinas",
+            "categoria": "Transporte",
+            "situacao": "Suspenso"
+        },
+        {
+            "id": 13,
+            "nome": "Maré Azul Pesca",
+            "cidade": "Recife",
+            "categoria": "Alimentos",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 14,
+            "nome": "Pampa Log",
+            "cidade": "Caxias do Sul",
+            "categoria": "Transporte",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 15,
+            "nome": "Amazônia Fibra",
+            "cidade": "Manaus",
+            "categoria": "Embalagens",
+            "situacao": "Inativo"
+        },
+        {
+            "id": 16,
+            "nome": "Solar do Pará",
+            "cidade": "Belém",
+            "categoria": "Energia",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 17,
+            "nome": "Estiva Docas",
+            "cidade": "Santos",
+            "categoria": "Transporte",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 18,
+            "nome": "Planalto TI",
+            "cidade": "Uberlândia",
+            "categoria": "Tecnologia",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 19,
+            "nome": "Serra Clara Higiene",
+            "cidade": "Joinville",
+            "categoria": "Limpeza",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 20,
+            "nome": "Mantiqueira Laticínios",
+            "cidade": "Ribeirão Preto",
+            "categoria": "Alimentos",
+            "situacao": "Suspenso"
+        },
+        {
+            "id": 21,
+            "nome": "Delta Circuitos",
+            "cidade": "Campinas",
+            "categoria": "Tecnologia",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 22,
+            "nome": "Farol Costeiro",
+            "cidade": "Recife",
+            "categoria": "Energia",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 23,
+            "nome": "Pinheiro Embalagens",
+            "cidade": "Londrina",
+            "categoria": "Embalagens",
+            "situacao": "Ativo"
+        },
+        {
+            "id": 24,
+            "nome": "Iguaçu Express",
+            "cidade": "Caxias do Sul",
+            "categoria": "Transporte",
+            "situacao": "Inativo"
+        },
+        {
+            "id": 25,
+            "nome": "Rio Negro Químicos",
+            "cidade": "Manaus",
+            "categoria": "Limpeza",
+            "situacao": "Ativo"
+        }
+    ]
+}
